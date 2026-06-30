@@ -15,7 +15,7 @@ AI-assisted development: Claude Code, custom Skills, Hooks, MCP integrations
 **[AWS S3 File Manager](https://github.com/fullyslick/aws-file-manager)** ([live demo](https://aws-s3-bucket-viewer.web.app/))
 React/TypeScript app for browsing, creating, and deleting files in an AWS S3 bucket through a filesystem-style UI.
 
-**[Node Migration & Seeding CLI](https://github.com/fullyslick/node-lumenalta-migrate-scripts)**
+**[Node Migration & Seeding CLI](https://github.com/fullyslick/node-migrate-scripts)**
 A Node.js CLI tool for versioned schema migrations and seeding, supporting migrate up, migrate down, and seed commands.
 
 **[Claude Code Knowledge Base](https://github.com/fullyslick/claude-code-knowledge-base)**
