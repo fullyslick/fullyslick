@@ -18,9 +18,6 @@ React/TypeScript app for browsing, creating, and deleting files in an AWS S3 buc
 **[Node Migration & Seeding CLI](https://github.com/fullyslick/node-migrate-scripts)**
 A Node.js CLI tool for versioned schema migrations and seeding, supporting migrate up, migrate down, and seed commands.
 
-**[Claude Code Knowledge Base](https://github.com/fullyslick/claude-code-knowledge-base)**
-Reference repo documenting practices for CLAUDE.md conventions, custom Skills, Hooks, Subagents, and MCP server integrations.
-
 ## Get in touch
 
 [LinkedIn](https://www.linkedin.com/in/aleksandar-rashkov/)
