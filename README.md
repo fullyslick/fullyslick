@@ -12,6 +12,9 @@ AI-assisted development: Claude Code, custom Skills, Hooks, MCP integrations
 
 ## A few things I've built
 
+**[React Anti-Patterns Review](https://github.com/fullyslick/react-antipatterns-review)**
+A custom Claude Code skill that reviews React/JSX/TSX code for anti-patterns (Effects, state, hooks, memo, keys, mutation) and outputs a prioritized fix plan without touching the code.
+
 **[AWS S3 File Manager](https://github.com/fullyslick/aws-file-manager)** ([live demo](https://aws-s3-bucket-viewer.web.app/))
 React/TypeScript app for browsing, creating, and deleting files in an AWS S3 bucket through a filesystem-style UI.
 
