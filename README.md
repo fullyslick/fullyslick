@@ -12,6 +12,8 @@ AI-assisted development: Claude Code, custom Skills, Hooks, MCP integrations
 
 ## A few things I've built
 
+**[Bullion Price Tracker](https://bullionpricetracker.com)** A full-stack site that charts the buy and sell price history of investment gold and silver coins against spot, so you can see the premium paid and the discount taken over time. A scheduled n8n workflow (self-hosted on Fly.io) fetches spot prices, calculates premiums and writes idempotently to Supabase Postgres. A React Router 7 SSR app on Cloudflare Workers serves the charts. Dealer prices are calibrated synthetic data, clearly labelled on the site.
+
 **[React Anti-Patterns Review](https://github.com/fullyslick/react-antipatterns-review)**
 A custom Claude Code skill that reviews React/JSX/TSX code for anti-patterns (Effects, state, hooks, memo, keys, mutation) and outputs a prioritized fix plan without touching the code.
 
