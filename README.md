@@ -6,7 +6,7 @@ Currently a senior full-stack engineer at AIOPS Group, architecting systems with
 
 ## What I work with
 
-TypeScript, React, Node.js, Express.js, REST APIs, GraphQL, MySQL, MongoDB, Supabase, Docker, CI/CD
+TypeScript, React, Node.js, Express.js, Next.js, Remix, REST APIs, GraphQL, MySQL, MongoDB, Supabase, Docker, CI/CD
 
 AI-assisted development: Claude Code, custom Skills, Hooks, MCP integrations
 
@@ -19,6 +19,8 @@ A custom Claude Code skill that reviews React/JSX/TSX code for anti-patterns (Ef
 
 **[AWS S3 File Manager](https://github.com/fullyslick/aws-file-manager)** ([live demo](https://aws-s3-bucket-viewer.web.app/))
 React/TypeScript app for browsing, creating, and deleting files in an AWS S3 bucket through a filesystem-style UI.
+
+**[Expensely](https://github.com/fullyslick/expense-requests)** A full-stack expense-request app with a manager and finance approval workflow, built so every rule holds against a direct API call, not just the UI. The server validates conditional form fields with a shared Zod schema, picks the approver, enforces owner and approver checks, and reads request bodies through an allowlist to block mass assignment. Status is derived from an event log, never stored. Express and React/TypeScript in an npm workspaces monorepo, covered by 209 tests.
 
 **[Node Migration & Seeding CLI](https://github.com/fullyslick/node-migrate-scripts)**
 A Node.js CLI tool for versioned schema migrations and seeding, supporting migrate up, migrate down, and seed commands.
