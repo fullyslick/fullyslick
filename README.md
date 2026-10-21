@@ -1,12 +1,15 @@
 # Aleksandar Rashkov
 
-Full-Stack Engineer with 10+ years building production-grade React/TypeScript applications, from API and data layer through pixel-perfect UI.
+I’m a Senior Full Stack Engineer with 10+ years of web development, mostly in React, TypeScript and Node.js. I work across the whole stack, from the Postgres schema to the UI.
 
-Currently a senior full-stack engineer at AIOPS Group, architecting systems with Node.js, Supabase, and modern React. AI-first by practice: I use Claude Code and custom-built automation daily to ship faster without cutting corners.
+I spent five years on e-commerce. I shipped storefronts on 8+ projects for brands like British American Tobacco, Luxottica, Schleich and Hunter Boots. Later I led a custom Salesforce PWA Kit storefront.
 
-## What I work with
+I have also built products. I designed a service wizard for a B2B device management SaaS. I took an AI readiness audit platform from a 4-day proof of concept to a client pilot. And I built bullionpricetracker.com alone, live in two weeks.
 
-TypeScript, React, Node.js, Express.js, Next.js, Remix, REST APIs, GraphQL, MySQL, MongoDB, Supabase, Docker, CI/CD
+I build with Claude Code every day. I write the specs, the guardrails, and my own skills. Claude writes code fast. I make the decisions.
+
+## Stack: 
+React, Next.js, React Router 7, Node.js, PostgreSQL, Supabase. Deployed on Vercel, Cloudflare Workers and Fly.io.
 
 AI-assisted development: Claude Code, custom Skills, Hooks, MCP integrations
 
